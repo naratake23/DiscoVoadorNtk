@@ -37,12 +37,9 @@ android {
 
     buildTypes {
         release {
-            isMinifyEnabled = true           // ativa R8 para remover código não usado
-            proguardFiles(
-                getDefaultProguardFile("proguard-android-optimize.txt"),
-                "proguard-rules.pro"
-            )
-            isShrinkResources = true         // remove recursos XML/imagens não referenciados
+            isMinifyEnabled   = false
+            isShrinkResources = false
+            isDebuggable = true  // opcional, pra poder usar logcat no release
         }
     }
     compileOptions {
