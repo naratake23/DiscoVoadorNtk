@@ -39,4 +39,4 @@ All code is modular and designed for easy maintenance.
 
 ##  Download
 
-**Signed APK** — [Download v2.4](https://github.com/naratake23/DiscoVoadorNtk/raw/main/app/release/discoVoadorNtk%20v2.4.apk)
+**Signed APK** — [Download v2.5](https://github.com/naratake23/DiscoVoadorNtk/raw/main/app/release/discoVoadorNtk_v2.5.apk)
