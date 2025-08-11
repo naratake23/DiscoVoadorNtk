@@ -1,0 +1,56 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+
+# Configurações do Android Studio
+.idea/
+*.iml
+
+# Pastas geradas
+.gradle/
+build/
+app/build/
+
+# Propriedades locais (senhas, caminhos absolutos)
+/local.properties
+/discovoador_keystore.jks
+/discovoador_keystore_2.jks
+
+# Arquivos de log
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Firebase, se tiver chaves locais
+.firebase/
+
+# Arquivos Kotlin
+*.kotlin_module
+
+# Chave privada do Firestore/FCM
+/app/src/main/assets/service_account_fcm_3.json
+/app/src/main/res/raw/service_account_fcm.json
+
+# Ignore UI screens que não vão pro GitHub
+/app/src/main/java/com/liberty/discovoadorntk/ui/screen_group/
+
+# Ignore classes de FCM que você não quer versionar
+/app/src/main/java/com/liberty/discovoadorntk/notifications/fcm/FcmConfig.kt
+/app/src/main/java/com/liberty/discovoadorntk/notifications/fcm/FcmHttpClient.kt
+
+

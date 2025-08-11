@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.DiscoVoadorNtk" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- muda o fundo da janela inteira (inicial e normal) -->
+        <item name="android:windowBackground">@color/gray_1</item>
+        <!-- para Android 12+ usando a API de SplashScreen: -->
+        <item name="android:windowSplashScreenBackground">@color/gray_1</item>
+        <!-- aplica a fonte default a toda a activity (inclusive o splash XML) -->
+        <item name="android:fontFamily">@font/share_tech_mono</item>
+    </style>
+</resources>

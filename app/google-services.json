@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244902003354",
+    "project_id": "discovoadorntk",
+    "storage_bucket": "discovoadorntk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244902003354:android:fdf1bd07630dcb94b21523",
+        "android_client_info": {
+          "package_name": "com.liberty.discovoadorntk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACzWxAPirLarqAPByvxQYzjUFn3qhzfsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
